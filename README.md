@@ -1,5 +1,11 @@
 # Aspell Personal Dictionaries
 
+[![](https://img.shields.io/github/license/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
+[![](https://img.shields.io/github/issues/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
+[![](https://img.shields.io/github/issues-closed/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
+[![](https://img.shields.io/github/languages/code-size/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
+[![](https://img.shields.io/github/repo-size/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
+
 ## Usage for Spanish analysis
 
 1. Download the word_list file.
