@@ -1,16 +1,16 @@
 # Aspell Personal Dictionaries
 
-[![](https://img.shields.io/github/license/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
-[![](https://img.shields.io/github/issues/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
-[![](https://img.shields.io/github/issues-closed/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
-[![](https://img.shields.io/github/languages/code-size/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
-[![](https://img.shields.io/github/repo-size/jnonino/aspell-personal-dictionaries)](https://github.com/jnonino/aspell-personal-dictionaries)
+[![](https://img.shields.io/github/license/cn-writing/aspell-personal-dictionaries)](https://github.com/cn-writing/aspell-personal-dictionaries)
+[![](https://img.shields.io/github/issues/cn-writing/aspell-personal-dictionaries)](https://github.com/cn-writing/aspell-personal-dictionaries)
+[![](https://img.shields.io/github/issues-closed/cn-writing/aspell-personal-dictionaries)](https://github.com/cn-writing/aspell-personal-dictionaries)
+[![](https://img.shields.io/github/languages/code-size/cn-writing/aspell-personal-dictionaries)](https://github.com/cn-writing/aspell-personal-dictionaries)
+[![](https://img.shields.io/github/repo-size/cn-writing/aspell-personal-dictionaries)](https://github.com/cn-writing/aspell-personal-dictionaries)
 
 ## Usage for Spanish analysis
 
 1. Download the word_list file.
 
-        wget -O spanish_word_list https://raw.githubusercontent.com/jnonino/aspell-personal-dictionaries/master/spanish_word_list
+        wget -O spanish_word_list https://raw.githubusercontent.com/cn-writing/aspell-personal-dictionaries/master/spanish_word_list
     
 2. Generate the Aspell dictionary for Spanish adding the word list.
 
