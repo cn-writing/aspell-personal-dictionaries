@@ -6,21 +6,29 @@ DevOps
 DevOpsDays
 Dr
 FTE
+IaaS
 Ing
+IT
 Ltd
 MSc
 MTTD
 MTTF
 MTTR
+NoOps
 NPS
 Ops
+PaaS
 QA
+SaaS
 SLA
+SRE
+sysadmin
+TDD
 UTN
 VCS
-IaaS
-PaaS
-SaaS
+
+
+
 
 
 
@@ -29,6 +37,7 @@ Ant
 Armakuni
 Azure
 Checkstyle
+Facebook
 Findbugs
 Github
 Google
@@ -43,6 +52,7 @@ Make
 Maven
 Meetup
 Microsoft
+Netflix
 PMD
 Pylint
 Python
@@ -62,15 +72,15 @@ rgb
 
 
 anti
-ciclomática
+ciclomÃ¡tica
 contactarse
 correctitud
-elicitación
-empatía
+elicitaciÃ³n
+empatÃ­a
 entregable
 entregables
-estadío
-fundamentación
+estadÃ­o
+fundamentaciÃ³n
 monitorear
 monitoreo
 multifuncional
@@ -91,6 +101,7 @@ builds
 cloud
 commit
 commits
+context
 continuous
 control
 cycle
@@ -100,8 +111,10 @@ delivery
 deployment
 detection
 development
+driven
 empty
 equivalent
+rngineering
 executive
 failure
 full
@@ -113,6 +126,7 @@ legacy
 Level
 like
 live
+logs
 manifesto
 mean
 net
@@ -127,13 +141,17 @@ programming
 promoter
 recover
 releases
+reliability
 score
 scripts
 service
+services
+site
 stakeholders
 staging
 summary
-System
+switching
+system
 the
 time
 title
@@ -144,7 +162,7 @@ Infrastructure
 
 
 
-Julián
+JuliÃ¡n
 Nonino
 Ali
 Algozzine
@@ -165,7 +183,7 @@ Erich
 Farley
 Fitz
 Fowler
-França
+FranÃ§a
 Galvan
 Guilherme
 Hancock
@@ -174,7 +192,7 @@ Helvio
 Horst
 Horta
 Humble
-Hütterman
+HÃ¼tterman
 Ingo
 Irma
 Ivan
